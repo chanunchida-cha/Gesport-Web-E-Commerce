@@ -1,0 +1,127 @@
+.div1 {
+    background: rgb(0, 109, 255);
+    background: linear-gradient(90deg, rgba(0, 109, 255, 1) 0%, rgba(0, 173, 255, 1) 100%);
+    width: 100%;
+    height: 500px;
+}
+
+.gradient-background {
+    height: 600px;
+    background: linear-gradient(62deg, #262B3F, #EE4643, #414c7a, #f35f5d);
+    animation: gradient 15s ease infinite;
+    background-size: 400% 400%;
+    width: 100%;
+    height: 1000px;
+
+}
+
+@-webkit-keyframes gradient {
+    0% {
+        background-position: 0 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+
+
+.div0 {
+    background-color: #1e203a;
+    width: 100%;
+    height: 100px;
+}
+
+.font1 {
+    color: rgb(255, 255, 255);
+    font-family: 'Prompt';
+    font-size: 30px;
+}
+
+.b2 {
+    font-weight: bold;
+    font-family: 'Prompt';
+    font-size: 30px;
+}
+
+.font2 {
+    color: rgb(255, 255, 255);
+    font-family: 'Prompt';
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+.font3 {
+    color: rgb(0, 102, 255);
+    font-family: 'Prompt';
+    text-decoration: underline;
+}
+
+.font3:hover {
+    color: rgb(65, 138, 247);
+    text-decoration: none;
+}
+
+.rotate {
+    margin-top: 20px;
+    color: #ffffff;
+    background-color: #292d3e00;
+    border: 1px solid #ffffff;
+    border-radius: 4px;
+    padding: 0 15px;
+    cursor: pointer;
+    height: 32px;
+    font-size: 14px;
+    transition: all 0.2s ease-in-out;
+}
+
+.rotate:hover {
+
+    transform: rotateZ(-30deg);
+}
+
+.button2 {
+    margin-top: 10px;
+    border-radius: 20px;
+    margin-right: 3px;
+
+}
+
+.column {
+    float: left;
+    width: 100%;
+    padding: 10px;
+    height: 800px;
+}
+
+.column2 {
+    float: right;
+    width: 50%;
+    padding: 10px;
+    height: 800px;
+}
+
+.text {
+    color: rgb(0, 0, 0);
+    font-family: 'Prompt';
+    font-size: 30px;
+}

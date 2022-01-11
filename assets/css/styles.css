@@ -1,0 +1,61 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body{
+    height: 100vh;
+    background-color: rgba(255, 255, 255, 0.781);
+    margin: 0;
+    padding: 0;
+    font-family: 'Prompt', sans-serif;
+}
+
+.navbar-brand {
+    padding-top: 30px;
+    padding-left:30px;
+    margin: 0;
+    width: 20%;
+    height: 80px;
+    font-family: 'Prompt', sans-serif;
+    
+}
+
+.nav-item {
+    list-style-type:none ;
+    font-size: 15px;
+    cursor: pointer;
+    margin: 20px;
+    text-align: center; 
+    font-family: 'Prompt', sans-serif;
+}
+
+.text-center {
+    font-size: 2.3rem;
+    font-weight: 400;
+    font-family: 'Prompt', sans-serif;
+    font-weight: bold;
+}
+
+.product{
+margin-top: 0px;
+margin-left:100px;
+margin-right: 0px;
+margin-bottom: 0px;
+font-family: 'Prompt', sans-serif;
+}
+
+.countcart span.badge {
+    position: absolute;
+    top: 5px;
+    right: -20px;
+    padding: 3px 6px;
+    border-radius: 50%;
+    background: red;
+    color: white;
+  }
+.nav-link{
+    font-family:'Prompt', sans-serif;
+}
+a{
+    font-family:'Prompt', sans-serif;
+}

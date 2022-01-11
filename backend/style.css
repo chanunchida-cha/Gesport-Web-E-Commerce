@@ -1,0 +1,182 @@
+
+.btn-add{
+  text-decoration: none;
+  inherits: none;
+  color:rgb(255, 255, 255);
+  font-family: 'Prompt', sans-serif;
+  background-color: #485FC7;
+  padding: 7px;
+  border-radius: 5px;
+  font-weight: 500;
+  border: none;
+}
+.btn-add:hover{
+  text-decoration: none;
+  inherits: none;
+  color:#6D50BE;
+  font-family: 'Prompt', sans-serif;
+  background-color: #c5d0ff;
+  padding: 7px;
+  border-radius: 5px;
+  font-weight: 500;
+  border: none;
+}
+.btn-password{
+  text-decoration: none;
+  inherits: none;
+  color:rgb(255, 255, 255);
+  font-family: 'Prompt', sans-serif;
+  background-color: #3E8ED0;
+  padding: 7px;
+  border-radius: 5px;
+  font-weight: 500;
+  width: 70px;
+  border: none;
+}
+.btn-password:hover{
+  text-decoration: none;
+  inherits: none;
+  color:rgb(255, 255, 255);
+  font-family: 'Prompt', sans-serif;
+  background-color: #8fccff;
+  padding: 7px;
+  border-radius: 5px;
+  font-weight: 500;
+  width: 70px;
+  border: none;
+}
+.btn-edit{
+  text-decoration: none;
+  inherits: none;
+  color:rgb(255, 255, 255);
+  font-family: 'Prompt', sans-serif;
+  background-color: #F14668;
+  padding: 7px;
+  border-radius: 5px;
+  font-weight: 500;
+  width: 70px;
+  border: none;
+}
+.btn-edit:hover{
+  text-decoration: none;
+  inherits: none;
+  color:rgb(255, 255, 255);
+  font-family: 'Prompt', sans-serif;
+  background-color: #ff9baf;
+  padding: 7px;
+  border-radius: 5px;
+  font-weight: 500;
+  width: 70px;
+  border: none;
+}
+.btn-del{
+  text-decoration: none;
+  inherits: none;
+  color:rgb(255, 255, 255);
+  font-family: 'Prompt', sans-serif;
+  background-color: #E64441;
+  padding: 7px;
+  width: 70px;
+  border-radius: 5px;
+  font-weight: 500;
+  border: none;
+}
+.btn-del:hover{
+  text-decoration: none;
+  inherits: none;
+  color:rgb(255, 255, 255);
+  font-family: 'Prompt', sans-serif;
+  background-color: #ff7d7b;
+  padding: 7px;
+  width: 70px;
+  border-radius: 5px;
+  font-weight: 500;
+  border: none;
+}
+td{
+  font-family: 'Prompt', sans-serif;
+  color: black;
+  font-weight: 550;
+}
+th{
+  font-family: 'Prompt', sans-serif;
+  color: rgb(255, 255, 255);
+  font-weight: 550;
+
+}
+.form{
+  font-family: 'Prompt', sans-serif;
+  font-size: 20px;
+  font-weight: 550;
+  width: 600px;
+  
+
+}
+.col-topic{
+  font-family: 'Prompt', sans-serif;
+  font-size: 20px;
+  font-weight: 550;
+  color: black;
+
+}
+.topic{
+  color: black;
+  font-family: 'Prompt', sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+}
+.contain-admin-add{
+  background-color: #fff;
+  padding: 30px;
+  width: 660px;
+  border-radius: 10px;
+}
+.contain-member-add{
+  background-color: #fff;
+  padding: 30px;
+  width: 660px;
+  border-radius: 10px;
+
+}
+.contain-type-add{
+  background-color: #fff;
+  padding: 30px;
+  width: 660px;
+  border-radius: 10px;
+
+}
+.contain-member-rwd{
+  background-color: #fff;
+  padding: 30px;
+  width: 660px;
+  border-radius: 10px;
+
+}
+.contain-admin-edit{
+  background-color: #fff;
+  padding: 30px;
+  width: 660px;
+  border-radius: 10px;
+
+}
+
+.contain-member-edit{
+  background-color: #fff;
+  padding: 30px;
+  width: 660px;
+  border-radius: 10px;
+
+}
+.contain-typ-edit{
+  background-color: #fff;
+  padding: 30px;
+  width: 660px;
+  border-radius: 10px;
+
+}
+.contain-product-edit{
+  background-color: #fff;
+  padding: 30px;
+  width: 660px;
+  border-radius: 10px;
+}
